@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ranggaaprillio" target="blank"><img src="https://img.shields.io/twitter/follow/ranggaaprillio?logo=twitter&style=for-the-badge" alt="ranggaaprillio" /></a> </p>
 
-- 👨‍💻 All of my projects are available at https://portofolio.devapril.com
+- 👨‍💻 All of my projects are available at https://aprilio.dev
 
 - 💬 Ask me about **react,vue,golang,node js**
 
