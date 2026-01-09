@@ -2,10 +2,6 @@
 
 ### A passionate Fullstack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranggaaprilio&label=Profile views&color=0e75b6&style=flat" alt="ranggaaprilio" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranggaaprilio" alt="ranggaaprilio" /></a> </p>
-
 - 🔭 I'm currently working on **a React and NestJs Stack**
 
 - 🌱 I'm currently learning **Artificial Intelligence and Design System**
