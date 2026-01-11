@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/ranggaaprilio"><img src="https://api.daily.dev/devcards/v2/WAPoVAzTCp8lc8JSQO0EQ.png?type=default&r=jrz" width="356" alt="Rangga Aprilio Utama's Dev Card"/></a>
-
 # Hi 👋, I'm Rangga Aprilio Utama
 
 ### A passionate Fullstack developer
